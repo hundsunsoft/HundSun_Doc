@@ -1,5 +1,5 @@
 # 登录网站
- 首先需要登录一个PDF水印添加网站：https://www.cleverpdf.com/cn/add-watermark-pdf
+ 首先需要登录一个PDF水印添加网站：https://www.ilovepdf.com/zh-cn/pdf_add_watermark#watermark-options,text
 
 # 选择文档
  1 选择要生成水印的pdf文档
